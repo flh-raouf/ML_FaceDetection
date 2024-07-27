@@ -1,0 +1,32 @@
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+
+# Python cache files
+__pycache__/
+.pytest_cache/
+
+# Jupyter temporary files
+*.ipynb_checkpoints
+
+# Jupyter kernel logs
+*.log
+
+# Python bytecode
+*.pyc
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Other environment folders
+.env/
+ENV/
+
+# Python package distribution folders
+dist/
+build/
+*.egg-info/
+.venv/
+.vscode/
